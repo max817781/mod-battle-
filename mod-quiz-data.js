@@ -1,7 +1,7 @@
 window.modQuizData = {
     "title": "半周年 MOD 爭權大賽",
     "subtitle": "重溫那場小龍包們的答題修羅場。",
-    "homeLink": "../../index.html",
+    "homeLink": "https://max817781.github.io/DinosaurMuseum2.0/#random-memory",
     "defaultTimeLimit": 20,
     "correctAudio": "audio/correct-sound-effect-128k.mp3",
     "questions": [
